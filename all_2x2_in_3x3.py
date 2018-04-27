@@ -1,0 +1,10 @@
+list_of_2x2 = []
+list.append([1,2,5,4])
+list.append([2,3,6,5])
+list.append([1,3,6,4])
+list.append([4,5,8,7])
+list.append([5,6,9,8])
+list.append([4,6,9,7])
+list.append([1,2,8,7])
+list.append([2,3,9,8])
+list.append([1,3,9,7])
