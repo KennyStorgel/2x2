@@ -1,6 +1,7 @@
 def all_c_graphs(a,b,c,d):
     ret = dict()
     ret['c1'] = {a:b, b:c, c:d, d:a}
+    ret['c1'] = {a:d, b:a, c:b, d:c}
     ret['c2'] = {a:b, c:b, c:d, a:d}
     ret['c3'] = {a:b, b:c, d:c, d:a}
     ret['c4'] = {a:b, b:c, d:c, a:d}
