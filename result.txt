@@ -1,7 +1,0 @@
-Results:
-- Found a configuration with only c1, c3, c4
-
-
-Goals:
-- Given a graph get all 2x2 configurations as set
-- Show that doesn't exist or find a 3x3 graph with only 2 configurations
